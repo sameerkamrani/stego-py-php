@@ -1,0 +1,1 @@
+python3 /var/www/html/pyphp/audio/uploads/WavSteg.py -h -s /var/www/html/pyphp/audio/uploads/audio.wav -f /var/www/html/pyphp/audio/uploads/text.txt -o /var/www/html/pyphp/audio/uploads/encoded.wav -n 1
